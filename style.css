@@ -70,3 +70,12 @@ input.clear, input.equal{
     width: 50%;
     height: 60px;
 }
+
+
+
+
+@media only screen and (max-width: 600px) {
+    input[type = "button"]:hover{
+        background: #191919;
+    }
+}
